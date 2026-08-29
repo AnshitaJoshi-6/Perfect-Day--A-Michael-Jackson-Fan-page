@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    display: flex;
+    gap: 40px;
+    padding: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    padding-top: 200px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+button {
+    padding: 15px 30px;
+    background: white;
+    border: none;
+    cursor: pointer;
+}
